@@ -15,9 +15,3 @@
 </div>
 
 ##
-
-<h3> Some jobs that I had been working</h3>
-<div>
-      <a href="https://cardinotalimentos.com" target="_blank" rel="noopener" ><img height="180em" src="https://cardinotalimentos.com/img/logo.png"></a>
-      <a href="https://winconcursos.com.br" target="_blank" rel="noopener" ><img height="180em" src="https://winconcursos.com.br/assets/img/Logo-Nova.png"></a>
-<div>
