@@ -1,6 +1,6 @@
 ## Hey, I’m Jairo Luckas and I'm so excited to contribute to a crew
 - Working specially with JS, Laravel, HTML/CSS
-- I’m currently learning <strong>React</strong>, <strong>Node</strong>, <strong>Laravel</strong> and <strong>LiveWire</strong>
+- I’m currently learning <strong>React</strong>, <strong>TypeScript</strong>, <strong>Node</strong>, <strong>Laravel</strong> and <strong>LiveWire</strong>
 
 <div>
   <a href="https://github.com/J-Luckas"/>
